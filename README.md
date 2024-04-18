@@ -2,4 +2,4 @@
 Here is my first GitHub repository. Let's get started with GitHub
 
 
-README.md file just edited manually
+README.md file just edited manually. This file was modified manually
